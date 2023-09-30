@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "Alex Eick <aeick135@gmail.com> (https://github.com/abundance-alex)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.6",
+    "eslint": "^8.50.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
 }
